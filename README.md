@@ -1,4 +1,4 @@
-# Coyote — Real-Time In-Meeting Intelligence
+# Coyote — In-Call Business Intelligence for Sales Teams and Investors
 
 > **YC Spring 2026 RFS**: AI-Native Agencies · AI-Native Hedge Funds
 
@@ -6,9 +6,11 @@ A native macOS overlay that delivers live business intelligence during sales cal
 
 ## Demo
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/c31875f3914b40119f80e5ac11ce476f-with-play.gif)](https://www.loom.com/share/c31875f3914b40119f80e5ac11ce476f)
+<a href="https://www.loom.com/share/c31875f3914b40119f80e5ac11ce476f">
+  <img src="https://cdn.loom.com/sessions/thumbnails/c31875f3914b40119f80e5ac11ce476f-with-play.gif" width="100%" />
+</a>
 
-![Coyote Screenshot](Screenshot%202026-04-19%20at%204.05.59%20PM.png)
+<img src="screenshot.png" width="100%" />
 
 ## Download
 
