@@ -4,6 +4,18 @@
 
 A native macOS overlay that delivers live business intelligence during sales calls and investor meetings — powered by Crustdata's Person and Company APIs.
 
+## Demo
+
+🎥 **[Watch the demo on Loom](https://www.loom.com/share/c31875f3914b40119f80e5ac11ce476f)**
+
+![Coyote Screenshot](Screenshot%202026-04-19%20at%204.05.59%20PM.png)
+
+## Download
+
+Pre-built macOS app — just mount and drag to Applications:
+
+📦 **[Coyote.dmg](Coyote.dmg)**
+
 ## The Problem
 
 Sales reps and investors sit through calls where dozens of names fly by — prospects, founders, portfolio companies, competitors. There's no way to research them without breaking the flow of conversation. You miss the signal that closes a deal or flags a red flag in a pitch, and spend hours after the meeting catching up on context you should have had live.
