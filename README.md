@@ -7,7 +7,7 @@ A native macOS overlay that delivers live business intelligence during sales cal
 ## Demo
 
 <a href="https://www.loom.com/share/c31875f3914b40119f80e5ac11ce476f">
-  <img src="https://cdn.loom.com/sessions/thumbnails/c31875f3914b40119f80e5ac11ce476f-with-play.gif" width="100%" />
+  <img src="https://cdn.loom.com/sessions/thumbnails/c31875f3914b40119f80e5ac11ce476f-9d7beb2aa0d881c9.gif" width="100%" />
 </a>
 
 <img src="screenshot.png" width="100%" />
