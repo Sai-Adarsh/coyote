@@ -12,7 +12,7 @@ enum Env {
                 .deletingLastPathComponent() // DerivedData/<hash>/
                 .deletingLastPathComponent() // DerivedData/
                 .appendingPathComponent(".env"),
-            URL(fileURLWithPath: NSHomeDirectory()).appendingPathComponent("Desktop/browse-out/coyote/.env")
+            URL(fileURLWithPath: NSHomeDirectory()).appendingPathComponent(".env")
         ]
 
         for url in candidates {
